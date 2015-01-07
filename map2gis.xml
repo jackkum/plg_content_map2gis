@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="content">
+	<name>PLG_CONTENT_MAP2GIS</name>
+	<author>СК Электросвязь</author>
+	<creationDate>Декабрь 201</creationDate>
+	<copyright>Copyright (C) 2005 - 2014 СК Электросвязь.</copyright>
+	<authorUrl>www.dom38.ru</authorUrl>
+	<version>3.0.0</version>
+	<description>PLG_CONTENT_MAP2GIS_XML_DESCRIPTION</description>
+
+	<files>
+		<filename plugin="map2gis">map2gis.php</filename>
+		<filename>index.html</filename>
+		<filename>ru-RU.plg_content_map2gis.ini</filename>
+		<folder>assets</folder>
+	</files>
+	<languages>
+		<language tag="ru-RU">ru-RU.plg_content_map2gis.ini</language>
+	</languages>
+	<config>
+		
+	</config>
+
+</extension>
